@@ -1,2 +1,6 @@
 # hello-world
-a short description
+
+Hi Humans!
+
+Some stuff, and some more stuff.
+
